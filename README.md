@@ -1,3 +1,3 @@
 # COMP1170
-3D Modelling and Animation
+3D Modelling and Animation \
 Uni work will go here!
